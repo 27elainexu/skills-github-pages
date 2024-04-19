@@ -1,12 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog!
 ---
 
-# Hi
-## Hi again
-### Hello
-I just love **bold text**.
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+This is a test blog! Ignore everything after this. I created this blog today because I love writing and have free time on my hands. The design of this blog is minimaliztic (until I figure out how to change the theme). I will be posting daily blog posts about life, school, and any interesting thoughts I have. I hope you enjoy my blog!
